@@ -9,4 +9,6 @@ export default defineConfig({
     tailwindcss(),
 
   ],
+  base: "/useState-and-Lifting-State-Up/", // Replace with your actual repository name
+
 })
